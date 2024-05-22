@@ -1,3 +1,8 @@
-NEW recipe with potatoes
-and oregano
+<<<<<<< HEAD
+NEW recipe for pork potatoes
+with oregano
+=======
+NEW recipe for pork potatoes
+with oregano
+>>>>>>> change_recipe
 
